@@ -543,7 +543,10 @@ button:focus {
         font-size: 2.5rem;
         margin-bottom: 0.5rem;
     }
-
+    .home__avatar {
+        max-width: 100%;
+        height: auto;
+    }
     .majors {
         flex-direction: column;
         align-items: center;
